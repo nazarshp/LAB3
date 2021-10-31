@@ -20,6 +20,7 @@ int main(){
     char word[3];
     char words[3][10] = {"cat", " salad", " kiwi"};
     test(words,3,word);
-    printf("%s", word);//виводить результат
+    printf("%s", word);
+//виводить результат
     return 0;
 }
